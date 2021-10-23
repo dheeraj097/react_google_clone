@@ -1,3 +1,5 @@
+# A google clone I made for fun in react using rapid API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
